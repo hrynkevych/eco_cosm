@@ -12,11 +12,11 @@ JavaScript
 
 **Preview**
 
-Immerse yourself in the world of sustainable beauty by exploring our live website preview. Witness the magic here: DEMO LINK.
+You can view the live preview of the landing page here [DEMO LINK](https://hrynkevych.github.io/Eco_cosmetics/).
 
 **Design Mockup**
 
-Get a sneak peek into the enchanting aesthetics of our website with our design mockup: MOCKUP LINK.
+Check out the design mockup for the landing page here: [MOCKUP LINK](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779%3A631&mode=dev).
 
 **Additional Setup Instructions**
 
