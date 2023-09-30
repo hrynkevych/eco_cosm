@@ -1,8 +1,8 @@
-**Witch of Mountain Winds Eco-Cosmetics Landing Page**
+**Cosmetics Brand Landing Page**
 
 **Project Description**
 
-Introducing the "Witch of Mountain Winds Eco-Friendly Cosmetics" website – your gateway to sustainable beauty! This captivating landing page serves as the digital face of eco-conscious cosmetics brand, featuring exquisite range of environmentally-friendly skincare and makeup products.
+Introducing the website for cosmetics brand. This captivating landing page serves as the digital face of eco-conscious cosmetics products, featuring exquisite range of environmentally-friendly skincare and makeup products.
 
 **Technologies Used**
 
